@@ -1,0 +1,1 @@
+What happens when you initialize a repository?  Why do you need to do it?  Initiating a repo creates the baseline to version control the work or code.  It creates the baseline by creating .git directory where all of the necessary files that allows for the version control to work are stored.  
