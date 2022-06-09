@@ -1,0 +1,1 @@
+When would you want to create a remote repository rather than keeping all your work local?  A remote repository is necessary to fascillitate collaboration with other individuals on a team as well as a way to keep your repo in a remotely accessible place that isn't tied down to whatever machine one may be using.  
