@@ -1,0 +1,2 @@
+--no --ff  It a command used when created new feature branches to make sure when the new feature in merged back into development branch, the commit and version history will be merged in, which would not happen if it was a Fast Forward merge.  
+The learn Git Branching doesn't work in chrome.  I had to use it in MS Edge browser.  I tried to make my way through the lessons, but didn't like the format.  Moved on after three hours in total reviewing branching strategies and the learning tool.  
